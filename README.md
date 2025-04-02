@@ -1,10 +1,10 @@
-# Official Vietnam eVisa Application Portal
+# Vietnam eVisa Application Portal
 
-**[Visit the Official Vietnam eVisa Website](https://www.evisagov.vn/official/en-us/index.php)**
+**[Visit the Vietnam eVisa Website](https://www.evisagov.vn/official/en-us/index.php)**
 
 ## Overview
 
-Welcome to the official GitHub repository for the **Official Vietnam eVisa Application Portal**. This repository provides essential information and resources for New Zealand citizens and other international travelers seeking to apply for a Vietnam visa online. Explore the detailed application process, requirements, and helpful travel tips to ensure a smooth and successful visit to Vietnam.
+Welcome to the official GitHub repository for the ** Vietnam eVisa Application Portal**. This repository provides essential information and resources for New Zealand citizens and other international travelers seeking to apply for a Vietnam visa online. Explore the detailed application process, requirements, and helpful travel tips to ensure a smooth and successful visit to Vietnam.
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ The **Vietnam eVisa Portal** is a comprehensive online platform designed to assi
 
 ## How to Use
 
-1. **Visit the Official Website**: Navigate to [eVisa Vietnam Official Website](https://www.evisagov.vn/official/en-us/index.php).
+1. **Visit the  Website**: Navigate to [eVisa Vietnam Website](https://www.evisagov.vn/official/en-us/index.php).
 2. **Select Your Visa Type**: Choose the appropriate visa type based on your travel needs.
 3. **Fill Out the Application Form**: Complete the online application form with accurate details.
 4. **Submit Required Documents**: Upload necessary documents such as passport scans and photos.
@@ -46,6 +46,6 @@ This repository is licensed under the [MIT License](LICENSE), which permits free
 
 ## Contact
 
-For any inquiries, support, or additional information, please visit the [Contact Page](https://www.evisagov.vn/official/en-us/contact.php) on our official website or email us at visa@evisagov.vn.
+For any inquiries, support, or additional information, please visit the [Contact Page](https://www.evisagov.vn/official/en-us/contact.php) on our  website or email us at visa@evisagov.vn.
 
 
